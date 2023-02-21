@@ -1,6 +1,6 @@
 # TIPOS PRIMITIVOS
 
-Os tipos primitivos são usados para criação de variaveis, ela é responsável por alocar uma quantidade especifica na memória dependendendo do da varaiavel que voce quer trabalhar, portanto voce deve escolher bem o tipo de variavel que quer trablhar pois isso pode interferir diretamente na otimização do seu programa.
+Os tipos primitivos são usados para criação de variaveis, ela é responsável por alocar uma quantidade especifica na memória dependendendo da variavel que voce quer trabalhar, portanto voce deve escolher bem o tipo de variavel que quer trablhar pois isso pode interferir diretamente na otimização do seu programa.
 
 ## COMO DECLARAR UMA VARIAVEL
 
