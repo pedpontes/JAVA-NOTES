@@ -14,19 +14,22 @@ Neste exemplo o `tipo_primitivo` é a tipagem da variavel e o `nome` é por sua 
 
 ## NUMEROS INTEIROS
 
- |TIPO|MEMÓRIA (bits)|VALORES|
- |byte|8|-128 a 128|
- |short|16|-32768 a 32767|
- |int|32|-2147483648 a 2147483647|
- |long|64|-2⁶³ a 2⁶³-1|
+ |TIPO   |MEMÓRIA (bits)|  VALORES                 |
+ |-------|--------------|--------------------------|
+ |byte   |8             |-128 a 128                |
+ |short  |16            |-32768 a 32767            |
+ |int    |32            |-2147483648 a 2147483647  |
+ |long   |64            |-2⁶³ a 2⁶³-1              |
 
 ## NUMEROS COM DECIMAIS
 
- |TIPO|MEMÓRIA (bits)|
- |float|32|
- |double|64|
+ |TIPO   |MEMÓRIA (bits)|
+ |-------|--------------|
+ |float  |32            |
+ |double |64            |
 
 ## VERDADEIRO OU FALSO
 
- |TIPO|MEMÓRIA (bits)|VALORES|
- |boolean|1|true ou false|
+ |TIPO   |MEMÓRIA (bits)|VALORES       |
+ |-------|--------------|--------------|
+ |boolean|1             |true ou false |
