@@ -33,3 +33,5 @@ Neste exemplo o `tipo_primitivo` é a tipagem da variavel e o `nome` é por sua 
  |TIPO   |MEMÓRIA (bits)|VALORES       |
  |-------|--------------|--------------|
  |boolean|1             |true ou false |
+ 
+De um olhada na pasta /scr/App.java , la coloquei na pratica para voce.
